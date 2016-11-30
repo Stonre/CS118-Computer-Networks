@@ -1,3 +1,5 @@
+//this is web-client for project 2
+
 #include <string>
 #include <thread>
 #include <iostream>
